@@ -20,3 +20,11 @@ p.custom-version1 {
   outline-color: DarkBlue;
 }
 
+img {
+  opacity: 0.6; 
+}
+
+img:hover {
+  opacity: 1.0; 
+}
+
