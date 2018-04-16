@@ -14,3 +14,9 @@ p.inset {
   border-style: inset;
 }
 
+p.custom-version1 {
+  border: 1px solid black;
+  outline-style: solid;
+  outline-color: DarkBlue;
+}
+
