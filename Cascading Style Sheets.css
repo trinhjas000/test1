@@ -52,7 +52,7 @@ img.circle {
   border-radius:8px;
 }
 
-ul.navi {
+ul.navii {
   list-style-type: 0;
   margin: 0;
   padding: 0;
@@ -71,7 +71,7 @@ li a.navi {
 }
 
 li a:hover {
-  background-color: LightSlateGrey;
+  background-color: DimGray;
   color: White;
 }
 
