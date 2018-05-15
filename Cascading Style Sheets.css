@@ -82,3 +82,7 @@ li a:active {
   font-family: fantasy;
 }
 
+.changedirection {
+  direction:rtl;
+}
+
