@@ -82,7 +82,16 @@ li a:active {
   font-family: fantasy;
 }
 
-.changedirection {
+p.changedirection {
   direction:rtl;
+}
+
+@fontface {
+  font-family: myFirstFont;
+  src: "http://www.1001fonts.com/eutemia-i-font.html";
+}
+
+.specialfont {
+  font-family: myFirstFont; 
 }
 
