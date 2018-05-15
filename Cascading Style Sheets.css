@@ -58,8 +58,6 @@ ul.navii {
   padding: 0;
   width: 650px;
   background-color: LightGray;
-  position: fixed;
-  overfolow: auto; 
 }
 
 li a.navi {
