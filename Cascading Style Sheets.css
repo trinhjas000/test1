@@ -73,6 +73,6 @@ li a:hover {
   font-family: cursive;
 }
 
-li a:visited {
-  color: Black;
+li a:active {
+  color: Orchid;
 }
