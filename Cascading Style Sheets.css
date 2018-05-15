@@ -52,14 +52,6 @@ img.circle {
   border-radius:8px;
 }
 
-ul.navii {
-  list-style-type: 0;
-  margin: 0;
-  padding: 0;
-  width: 650px;
-  background-color: LightGray;
-}
-
 li a.navi {
   display: block;
   color: Black;
@@ -79,4 +71,8 @@ li a:hover {
 
 .differentfont {
   font-family: cursive;
+}
+
+li a:visited {
+  color: Black;
 }
