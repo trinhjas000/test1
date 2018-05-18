@@ -11,6 +11,10 @@ body {
   background-color: white;
 }
 
+body.background1 {
+ background-image:url("https://www.walldevil.com/wallpapers/a39/different-backgrounds-website-sphere-beautiful-background-web-wallpapers.jpg");
+}
+
 p.inset {
   border-style: inset;
 }
@@ -89,7 +93,7 @@ p.changedirection {
 
 @fontface {
   font-family: myFirstFont;
-  src: "eutemia-i.zip";
+  src: url("eutemia-i.zip");
 }
 
 .specialfont {
