@@ -12,11 +12,15 @@ body {
 }
 
 body.background1 {
- background-image:url("https://www.walldevil.com/wallpapers/a39/different-backgrounds-website-sphere-beautiful-background-web-wallpapers.jpg");
+  background-image:url("https://www.walldevil.com/wallpapers/a39/different-backgrounds-website-sphere-beautiful-background-web-wallpapers.jpg");
 }
 
 body.background2 {
- background-image:url("https://cdn.wallpapersafari.com/69/34/lfsN04.jpg"); 
+  background-image:url("https://cdn.wallpapersafari.com/69/34/lfsN04.jpg"); 
+}
+
+body.background3 {
+  background-image:(url"http://www.pptback.com/uploads/red-light-backgrounds-powerpoint.jpg");  
 }
 
 p.inset {
@@ -95,12 +99,4 @@ p.changedirection {
   direction:rtl;
 }
 
-@fontface {
-  font-family: myFirstFont;
-  src: url(eutemia-i.zip);
-}
-
-.specialfont {
-  font-family: myFirstFont; 
-}
 
